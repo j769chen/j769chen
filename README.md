@@ -1,12 +1,16 @@
-# Hey There! 👋
+# Hey There👋, Welcome to my GitHub Page!
+
+## Who am I?
+
 ### My name's James, and I'm a computer science student at Carleton University.
 
 I'm a motivated full-stack software engineer with a passion for using technology to improve user experiences.
-Some of the technologies that I'm most familiar with are Python, TypeScript, ReactJS and PostgreSQL, but I love to learn new languages!
 
-Check out my [website](https://james-chen.me/) to learn more about me!
+I'm currently a Server Engineer Intern @ **EA**🎮, and I've previously worked at **BlackBerry**🍇 and **Wind River**💨, among others.
 
-You can reach me at:
+Check out my [website](https://james-chen.me/)🌐 to learn more about me!
+
+## You can reach me at:
 
 🏢 [LinkedIn](https://www.linkedin.com/in/james23chen/)
 
