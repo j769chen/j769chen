@@ -1,7 +1,8 @@
 # Hey There! 👋
-### My name's James, a computer science student at Carleton University.
+### My name's James, and I'm a computer science student at Carleton University.
 
 I'm a motivated full-stack software engineer with a passion for using technology to improve user experiences.
+Some of the technologies that I'm most familiar with are Python, TypeScript, ReactJS and PostgreSQL, but I love to learn new languages!
 
 Check out my [website](https://james-chen.me/) to learn more about me!
 
