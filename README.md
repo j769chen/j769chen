@@ -5,8 +5,9 @@ Check out my [website](https://james-chen.me/) to learn more about me!
 
 You can reach me at:
 
-🏢 - [james23chen](https://www.linkedin.com/in/james23chen/)
-📫 - [james.chen5@carleton.ca](mailto:james.chen5@carleton.ca)
+🏢[james23chen](https://www.linkedin.com/in/james23chen/)
+
+📫[james.chen5@carleton.ca](mailto:james.chen5@carleton.ca)
 
 
 <!---
