@@ -6,7 +6,7 @@
 
 I'm a motivated full-stack software engineer with a passion for using technology to improve user experiences.
 
-I'm currently a Server Engineer Intern @ **EA**🎮, and I've previously worked at **BlackBerry**🍇 and **Wind River**💨, among others.
+I've worked previously @ **EA**🎮, **BlackBerry**🍇 and **Wind River**💨, among others.
 
 Check out my [website](https://james-chen.me/)🌐 to learn more about me!
 
