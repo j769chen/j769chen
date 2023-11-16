@@ -16,7 +16,7 @@ Check out my [website](https://james-chen.me/)🌐 to learn more about me!
 
 📫 [Email](mailto:james.chen5@carleton.ca)
 
-[![James' GitHub stats](https://github-readme-stats.vercel.app/api?username=j769chen&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!---[![James' GitHub stats](https://github-readme-stats.vercel.app/api?username=j769chen&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)--->
 <!---
 j769chen/j769chen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
