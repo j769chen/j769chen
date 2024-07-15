@@ -6,7 +6,7 @@
 
 I'm a motivated full-stack software engineer with a passion for using technology to improve user experiences.
 
-I am currently a SWE Intern @ StackAdapt, and I've worked previously @ **Kinaxis**, **EA**🎮 and **BlackBerry**🍇, among others.
+I am currently a SWE @ StackAdapt, and I've worked previously @ **Kinaxis**, **EA**🎮 and **BlackBerry**🍇, among others.
 
 Check out my [website](https://james-chen.me/)🌐 to learn more about me!
 
