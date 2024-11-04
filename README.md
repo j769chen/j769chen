@@ -2,7 +2,7 @@
 
 ## Who am I?
 
-### My name's James, a CS Grad from Carleton University.
+### I'm James, a CS Grad from Carleton University.
 
 I'm a motivated full-stack software engineer with a passion for using technology to improve user experiences.
 
